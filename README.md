@@ -154,12 +154,7 @@ python zba_v2.py C      # núcleo via terminal: A | B | C | D | cellA
 
 A interface traz 5 predefinições (eletrólitos A, B, C, D e a célula do artigo em 3 ciclos), protocolo configurável, 11 gráficos em Canvas puro (sem matplotlib), varredura de espessura de Zn × energia (análoga à Fig. 9) e um glossário de 126 verbetes técnicos com referências.
 
-## 8. Citação e licença
-
-Se usar este trabalho, cite também o artigo-fonte ([seção 2](#2-referência-científica)).
-
-**Autor:** Alejandro — *(completar nome e contato)*
-**Licença:** *(escolher, por exemplo MIT)*
+## 8. 
 
 > [!IMPORTANT]
 > Este é um modelo de pesquisa e estudo. Não é uma ferramenta validada para projeto de produto.
